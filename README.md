@@ -1,8 +1,8 @@
 # Let’s Texify
+Let’s Texify is a simple yet powerful OCR (Optical Character Recognition) application that can read text from images of different sizes, colors, and font styles. It’s designed to be flexible, easy to use, and customizable based on the type of image being processed.
 
 ## Project Description
-
-“Let’s Texify” is an OCR (Optical Character Recognition) application capable of reading text from images of any size, color, and font family.
+The goal of Let’s Texify is to make reading text from images more accurate and efficient by combining preprocessing, Tesseract OCR, and post-processing into a single workflow. Users can define and save custom “recipes” to handle different types of images like newspapers or book pages.
 
 ## Application Requirements
 
@@ -37,7 +37,7 @@
 
 ## Roles and Responsibilities
 
-- **Vadansh**
+- **Purvi**
   - Provide the DLL with Preprocessing and Tesseract integration.
   - Develop the UI and integrate all API calls.
   - Provide the DLL with Postprocessing functionality.
